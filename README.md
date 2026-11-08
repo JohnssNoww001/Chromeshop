@@ -2,10 +2,10 @@
 <p align="center"><b>A free, simple mod manager for Cyberpunk 2077 on Windows.</b><br>Drop your mod files in, press Install. That's it.</p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>⬇️ Download the latest version</b></a>
+  <a href="https://github.com/JohnssNoww001/Chromeshop/releases/latest"><b>⬇️ Download the latest version</b></a>
 </p>
 
-<p align="center"><img src="home.png" alt="Chromeshop home page" width="800"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/JohnssNoww001/Chromeshop/main/home.PNG" alt="Chromeshop home page" width="800"></p>
 
 ---
 
@@ -23,19 +23,19 @@
 - 🎨 **Your look.** Colours, fonts and themes you can change.
 
 <p align="center">
-  <img src="mymods.png" alt="My mods" width="390">
-  <img src="health.png" alt="Health page" width="390">
+  <img src="https://raw.githubusercontent.com/JohnssNoww001/Chromeshop/main/mymods.PNG" alt="My mods" width="390">
+  <img src="https://raw.githubusercontent.com/JohnssNoww001/Chromeshop/main/health.PNG" alt="Health page" width="390">
 </p>
 <p align="center">
-  <img src="loadorder.png" alt="Load order" width="390">
-  <img src="shots.png" alt="Shots gallery" width="390">
+  <img src="https://raw.githubusercontent.com/JohnssNoww001/Chromeshop/main/loadorder.PNG" alt="Load order" width="390">
+  <img src="https://raw.githubusercontent.com/JohnssNoww001/Chromeshop/main/shots.PNG" alt="Shots gallery" width="390">
 </p>
 
 ---
 
 ## 📥 Install
 
-1. Go to the [**Releases**](../../releases/latest) page and download `Chromeshop_x.x.x_x64-setup.exe`.
+1. Go to the [**Releases**](https://github.com/JohnssNoww001/Chromeshop/releases/latest) page and download `Chromeshop_x.x.x_x64-setup.exe`.
 2. Run it and follow the installer.
 3. Open Chromeshop. On the **Setup** page, press **Auto-detect** (or **Choose folder**) to find your game.
 4. Press **Install missing** to add the core mods most other mods need.
